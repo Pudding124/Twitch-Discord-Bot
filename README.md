@@ -6,4 +6,4 @@ npm install
 
 ### Step 2
 Refer to my blog
-https://medium.com/@surprised128/make-your-own-discord-bot-2-8bb2d661190a
+https://surprised128.medium.com/make-your-own-discord-bot-1-7b5fe27cb6fa
