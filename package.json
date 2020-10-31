@@ -1,0 +1,12 @@
+{
+    "name": "TwitchBot",
+    "version": "1.0.0",
+    "description": "禰豆子",
+    "main": "Bot.js",
+    "author": "Mingjen",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4"
+    }
+}
